@@ -1,0 +1,173 @@
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+    
+}
+.container{
+    max-width: 1320px;
+    height: auto;
+    margin: auto;
+}
+a{
+    text-decoration: none;}
+.parent{
+    width: 100%;
+    height: auto;
+}
+.ul{
+    display: flex;
+    color: white;
+}
+.li{
+    padding: 25px;
+   color: white;
+}
+.rshift{
+    margin-left: 168px;
+}
+.lshift{
+    margin-left: 205px;
+}
+.list2{
+    display: flex;
+
+}
+.nav{
+    display: flex;
+    margin-left: 600px;
+    
+}
+.bt{
+    width: 135px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 10px;
+}
+.div{
+    background-color: #052A44;
+}
+.bt2{
+    width: 179px;
+    background-color: #052A44;
+    color:white;
+    border-radius: 10px;
+    height: 50px;
+}
+.p{
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 400;
+}
+.career{
+    color: #E8DB84;
+    font-size: 48px;
+    font-style: bold;
+
+}
+.path{
+    color: #000000;
+    font-size: 48px;
+    font-style: bold;
+}
+.img{
+position: relative;
+}
+.right{
+    
+    padding-bottom: px;
+    padding-left: 115px;
+    margin-top: 55px;
+}
+.ig{
+    position: absolute;
+    right: 545px;
+    top: 145px;
+}
+.image{
+    position: absolute;
+    margin-left: -400px;
+    top: 85px;
+}
+.img2{
+    position: absolute;
+    right: 545px;
+    top: 265px;
+
+}
+.img3{
+    position: absolute;
+    right: 545px;
+    top: 397px;
+}
+.h1{
+    color: #000000;
+    text-align: center;
+    size: 42px;
+}
+.para{
+    color: #071210;
+    font-size: 18px;
+    text-align: center;
+    height: 27px;
+}
+.bt3{
+    text-align: center;
+    width: 176px;
+    padding: 5px;
+    border-radius: 8px;
+    color: white;
+    background-color: #052A44;
+    margin-left: 535px;
+}
+.bg{
+    background-color: #E8DB84;
+    width: 1240px;
+    border-radius: 29px;
+}
+.photo{
+    width: 400px;
+    margin-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.head{
+    color: #000000;
+    size: 42px;
+    margin-top: 50px;
+}
+.para2{
+    color: #071210;
+    font-size: 18px;
+    height: 27px;
+}
+.input{
+    padding-left: 24px;
+    padding-right: 160px;
+    margin-left: 232px;
+    margin-top: 23px;
+     border-radius: 8px;
+
+}
+.input2{
+        padding-left: 24px;
+    padding-right: 180px;
+    border-radius: 8px;
+}
+.input3{
+    margin-left: 231px;
+    margin-top: 8px;
+    padding-left: 24px;
+    padding-right: 160px;
+    border-radius: 8px;
+}
+.input4{
+    margin-left: 230px;
+    margin-top: 10px;
+    padding-left: 24px;
+    padding-right: 552px;
+    padding-bottom: 160px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+}

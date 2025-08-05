@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html>
 
@@ -64,4 +65,72 @@
     </video>
 </body>
 
+=======
+<!doctype html>
+<html>
+
+<head>
+    <title>form</title>
+    <style>
+        .form-group {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            width: 20%;
+
+        }
+        .form-names{
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Form</h1>
+    <form action="">
+        <div>
+            <div class="form-names">
+
+                <div style="margin-right: 10px;">
+                    <label for="Fname"><b>First name:</b></label><br>
+                    <input type="text" id="Fname" name="Fname" value="Enter your first name">
+                </div>
+                <div>
+                    <label for="lname" style="margin-left: 10px;">Last name</label><br>
+                    <input type="text" id="lname" name="lname" value="Enter your last name"><br>
+                </div>
+            </div>
+
+
+            <label for="guest">How many guest are you bringing?</label><br>
+            <input type="text" id="guest" name="guest" value="5" style="margin: 10px; width: 50%;"><br>
+            <div class="form-names">
+            <div style="margin-right: 10px;">
+            <label for="event date">Event Date(date):</label><br>
+            <input type="date" id="event date" name="event date" value="DD/MM/YYYY"><br>
+            </div>
+            <div>
+            <label for="event time" style="margin-left: 10px;">Event Time</label><br>
+            <input type="time" id="event time" name="event time" value="11.00 AM" style="margin: 10px;"><br>
+            </div>
+            </div>
+            <p><b>Are you coming to the event?</b></p>
+            <input type="radio" id="yes" name="question" value="Yes">
+            <label for="yes">Yes</label>
+            <input type="radio" id="no" name="question" value="No">
+            <label for="no">No</label><br>
+            <input type="submit" value="submit">
+        </div>
+    </form>
+    <video width="400" controls>
+        <source src="assets/img/20241227125349.mp4">
+    </video>
+</body>
+
+>>>>>>> a8d73d2 (My HTML Codes)
 </html>

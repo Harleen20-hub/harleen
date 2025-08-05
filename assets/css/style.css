@@ -1,0 +1,48 @@
+ body{
+                background-image: url(/assets/img/city.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+div.p{
+    width: 800px;
+   height: auto;
+   padding-top: 100px;
+   padding-left: 100px;
+}
+.h{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p2{
+    font-size: 40px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p3{
+    color: white;
+    font-size: 20px;
+
+}
+.button{
+    color: white;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 10px 10px 5px;
+}
+.b2{
+     color: white;
+    border-radius: 20px;
+    padding: 10px 15px 5px;
+    background-color: rgb(163, 86, 163);
+}
+.d2{
+    position: relative;
+    
+}
+.img{
+    position: absolute;
+    right: 100px;
+    bottom: 1px;
+    width: 500px;
+    border-radius: 25px;
+}

@@ -1,0 +1,216 @@
+.container{
+    max-width: 1320px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    padding-top: 10px;
+}
+.ul{
+    padding:60px;
+    padding-top: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.li{
+    display: flex;
+    float: right;
+    padding: 20px;
+    color: rgb(5, 5, 7);
+}
+.bt{
+    font-size: 15px;
+    color: blue;
+    display: flex;
+    float: right;
+    padding: 15px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    background-color: transparent;
+    margin-top: 5px;
+}
+.py60{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.parent{
+    width: 100%;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+    font-size: 50px;
+   font-family: HK Grotesk;
+   color: #183B56;
+}
+.p{
+    text-align: center;
+    font-size: 18px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 32px;
+    color: #5A7184;
+}
+.img-fluid{
+    max-width: 700px;
+    height: auto;
+    padding-left: 300px;
+    margin-top: 50px;
+    
+}
+.div{
+    display: flex;
+    gap: 160px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 198px;
+}
+.icon{
+    padding: 50px;
+}
+.m{
+    font-size: 48px;
+    color: #183B56;
+    font-family: HK Grotesk;
+}
+.user{
+    font-size: 18px;
+    color: #5A7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p2{
+    display: flex;
+    width: 100%;
+}
+.left{
+    margin-top: 100px;
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+.head{
+    font-size: 48px;
+    margin-top: 100px;
+    color: #183B56;
+    font-family: HK Grotesk;
+}
+.para{
+    font-size: 18px;
+    line-height: 32px;
+    color: #5A7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.list{
+    display: flex;
+    gap: 20px;
+    line-height:40px;
+    font-size: 16px;
+    color: #183B56;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.footer{
+    padding: 10px 15px;
+    text-align: start;
+}
+.heading{
+    font-size: 50px;
+    padding-left: 0px;
+}
+.analytic{
+opacity: 1;
+padding-left: 15px;
+font-size: 18px;
+margin-top: 0%;
+color:#959EAD;
+}
+.footp{
+    font-size:24px;
+    padding-left: 15px;
+    font-family: HK Grotesk;
+}
+.read{
+    font-size: 14px;
+    padding-left: 15px;
+    color: blue;
+}
+.div23{
+    text-align: center;
+    margin-top: 100px;
+    background-color: #1565D8;
+    padding: 50px;
+}
+.h2{
+    font-size: 50px;
+    color: white;
+}
+.pf{
+    font-size: 20px;
+    color: white;
+}
+.input{
+    position: relative;
+}
+.email{
+  padding: 18px;
+  padding-left: 35px;
+  padding-right: 190px;
+  color: #959EAD;
+  font-size: 16px;
+  font-family:Open Sans;
+  border-radius: 10px;
+}
+.submit{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px solid #1565D8;
+    color: white;
+    background-color: #1565D8;
+    border-radius: 5px;
+}
+.arrow{
+    font-size: 16px;
+}
+.our{
+     display: flex;
+    width: 100%;
+    background-color: #F9FBFE;
+    padding: 10px;
+    padding-top: 0px;
+}
+.left2{
+     margin-top: 210px;
+    max-width: 100%;
+    height: auto;
+    width: 455px;
+}
+.top{
+    margin-top: 70px;
+    padding-left: 70px;
+}
+.fp{
+    font-size: 16px;
+    color: #5A7184;
+    padding: 8px;
+}
+.more{
+     display: flex;
+    width: 100%;
+}
+.max{
+    font-size: 16px;
+    color: #183B56;
+    line-height: 35px;
+}
+h3{
+    color: #183B56;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    overflow-x: hidden;
+}

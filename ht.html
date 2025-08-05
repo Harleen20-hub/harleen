@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+    <head>
+        <title>html</title>
+        <style>
+            table, th, td{
+                border: 1px solid black;
+                border-radius: 10px;
+                
+            }
+            th,td{
+                background-color: aqua;
+                border-style:dotted;
+            }
+            table{
+                border-spacing: 20px;
+            }
+            tr:nth-child(even){
+                background-color: bisque;
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>info table</h1>
+        <table>
+            <colgroup>
+            <col span="2" style="background-color: blueviolet;"></colgroup>
+            <thead>
+                <tr>
+                    <th style="width: 80%;">name</th>
+                    <th>clASS</th>
+                    <th>id</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="height: 150px;">gautam</td>
+                    <td>5th</td>
+                    <td>50</td>
+                </tr>
+                <tr>
+                    <td>gomji</td>
+                    <td>4th</td>
+                    <td>38</td>
+                </tr>
+                <tr>
+                    <td>vani</td>
+                    <td>9th</td>
+                    <td>55  </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
